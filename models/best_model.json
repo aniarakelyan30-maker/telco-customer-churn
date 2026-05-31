@@ -1,0 +1,10 @@
+{
+  "model": "Random Forest",
+  "metrics": {
+    "Accuracy": 0.7609,
+    "Precision": 0.5331,
+    "Recall": 0.7796,
+    "F1": 0.6332,
+    "ROC_AUC": 0.8431
+  }
+}

@@ -1,0 +1,2 @@
+n_churners,monthly_revenue_at_risk,annual_revenue_at_risk,avg_churner_value,target_fraction,customers_targeted,true_churners_caught,capture_precision,expected_customers_saved,campaign_cost,revenue_protected,net_benefit,roi
+372,26973.35,323680.19999999995,72.50900537634408,0.2,281,185,0.6583629893238434,55.5,26976.0,53717.40000000001,26741.40000000001,0.9913033807829185

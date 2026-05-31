@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep the model registry small in git: the .joblib is regenerable via main.py.
+# Comment the next line out if you want to version the trained model.
+models/best_model.joblib
